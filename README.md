@@ -1,7 +1,7 @@
 # NBody_SIMD_Test
 Testing SIMD in an NBody Simulation environment
 
-This was my first attempt at SIMD, trying out on a brute force n-body simulation. I looked at the results of a series of approaches - I thought they were quite interesting and wanted to share - the code can be found here https://github.com/s0lly/NBody_SIMD_Test :
+This was my first attempt at SIMD, trying out on a brute force n-body simulation. I looked at the results of a series of approaches - I thought they were quite interesting and wanted to share :
 
 AoS approach: this is just the typically naive approach of having one object for each entity, which contains its own location, velocity, mass info, and applies gravity calcs to each
 
